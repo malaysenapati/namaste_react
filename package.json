@@ -1,0 +1,14 @@
+{
+  "name": "namaste-react-03-04-2025",
+  "version": "1.0.0",
+  "description": "Namaste React 03-04-2025",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.14.4"
+  }
+}
